@@ -1,0 +1,16 @@
+{
+  "name": "spam-typeform",
+  "version": "1.0.0",
+  "description": "A tool written in JavaScript to send fake answers to a phishing typeform.com form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Monty",
+  "license": "GPLv3",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "puppeteer": "^8.0.0"
+  }
+}
