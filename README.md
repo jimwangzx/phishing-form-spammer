@@ -2,7 +2,8 @@
 
 I'm too lazy to write a readme so here's a video
 
-![video](https://user-images.githubusercontent.com/49426949/110237557-f4fe3d80-7f3c-11eb-8875-4ee25e01c2a8.mp4)
+![i_hate_phishing](https://user-images.githubusercontent.com/49426949/110237848-87531100-7f3e-11eb-9faa-45a0b006ad2a.gif)
+
 
 ### Usernames and passwords sourced from [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 #### Usernames
