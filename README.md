@@ -1,6 +1,6 @@
 # phishing-form-spammer
 
-I'm too lazy to write a readme so here's a video
+I'm too lazy to write a readme so here's a gif
 
 ![i_hate_phishing](https://user-images.githubusercontent.com/49426949/110237848-87531100-7f3e-11eb-9faa-45a0b006ad2a.gif)
 
